@@ -1,4 +1,6 @@
 <?php
 
 
-class DisplayLogicWrapper extends CompositeField {}
+class DisplayLogicWrapper extends CompositeField
+{
+}
